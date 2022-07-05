@@ -19,8 +19,9 @@
 > O cliente solicita um formulário de cadastramento de ingressantes e
 > que contenham as seguintes características:
 
-a.  ![](./images/media/image1.png){width="2.2333333333333334in"
-    height="2.734027777777778in"}**Construir um formulário que tem tenha
+a.  ![](./images/media/image1.png)
+
+**Construir um formulário que tem tenha
     o seguinte layout:**
 
 b.  **Preencher a lista de Cursos com os seguintes itens:**
