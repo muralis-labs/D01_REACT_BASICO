@@ -19,10 +19,10 @@
 > O cliente solicita um formulário de cadastramento de ingressantes e
 > que contenham as seguintes características:
 
-  ![](./images/media/image1.png)
-
 a.  **Construir um formulário que tem tenha
     o seguinte layout:**
+    
+![](./images/media/image1.png)
 
 b.  **Preencher a lista de Cursos com os seguintes itens:**
 
